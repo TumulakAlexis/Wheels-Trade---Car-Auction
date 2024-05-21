@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "405827173181",
+    "project_id": "wheelstrade-11db7",
+    "storage_bucket": "wheelstrade-11db7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405827173181:android:54baf11ceab5b6a12f6354",
+        "android_client_info": {
+          "package_name": "com.example.wheels_trade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405827173181-oa7fqjpjql1m4jh2bc8t8ba5m7i4jnjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wheels_trade",
+            "certificate_hash": "28e4351c61c33587d148e09a602a601d554f3329"
+          }
+        },
+        {
+          "client_id": "405827173181-rtitqfukadlg0a8n1v1k4gtuhlbmvlcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3rD3UdydbFfrrW7ad-PzrNRdSWblNeC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405827173181-rtitqfukadlg0a8n1v1k4gtuhlbmvlcr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405827173181-4g47i5af0gi3bn0vg6mnqp7kvehrcvd5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wheelsTrade"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
